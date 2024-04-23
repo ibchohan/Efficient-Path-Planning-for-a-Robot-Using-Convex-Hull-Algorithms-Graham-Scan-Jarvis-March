@@ -1,0 +1,30 @@
+C:\Users\HP\source\repos\algo project_CSHARP\bin\Debug\algo project_CSHARP.exe.config
+C:\Users\HP\source\repos\algo project_CSHARP\bin\Debug\algo project_CSHARP.exe
+C:\Users\HP\source\repos\algo project_CSHARP\bin\Debug\algo project_CSHARP.pdb
+C:\Users\HP\source\repos\algo project_CSHARP\obj\Debug\algo project_CSHARP.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\algo project_CSHARP\obj\Debug\algo_project_CSHARP.Form1.resources
+C:\Users\HP\source\repos\algo project_CSHARP\obj\Debug\algo_project_CSHARP.Properties.Resources.resources
+C:\Users\HP\source\repos\algo project_CSHARP\obj\Debug\algo project_CSHARP.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\algo project_CSHARP\obj\Debug\algo project_CSHARP.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\algo project_CSHARP\obj\Debug\algo project_CSHARP.exe
+C:\Users\HP\source\repos\algo project_CSHARP\obj\Debug\algo project_CSHARP.pdb
+C:\Users\mtahi\OneDrive\Muhammad Tahir OneDrive\OneDrive - FAST National University\Desktop\algo project_CSHARP\algo project_CSHARP\bin\Debug\algo project_CSHARP.exe.config
+C:\Users\mtahi\OneDrive\Muhammad Tahir OneDrive\OneDrive - FAST National University\Desktop\algo project_CSHARP\algo project_CSHARP\bin\Debug\algo project_CSHARP.exe
+C:\Users\mtahi\OneDrive\Muhammad Tahir OneDrive\OneDrive - FAST National University\Desktop\algo project_CSHARP\algo project_CSHARP\bin\Debug\algo project_CSHARP.pdb
+C:\Users\mtahi\OneDrive\Muhammad Tahir OneDrive\OneDrive - FAST National University\Desktop\algo project_CSHARP\algo project_CSHARP\obj\Debug\algo project_CSHARP.csproj.AssemblyReference.cache
+C:\Users\mtahi\OneDrive\Muhammad Tahir OneDrive\OneDrive - FAST National University\Desktop\algo project_CSHARP\algo project_CSHARP\obj\Debug\algo_project_CSHARP.Form1.resources
+C:\Users\mtahi\OneDrive\Muhammad Tahir OneDrive\OneDrive - FAST National University\Desktop\algo project_CSHARP\algo project_CSHARP\obj\Debug\algo_project_CSHARP.Properties.Resources.resources
+C:\Users\mtahi\OneDrive\Muhammad Tahir OneDrive\OneDrive - FAST National University\Desktop\algo project_CSHARP\algo project_CSHARP\obj\Debug\algo project_CSHARP.csproj.GenerateResource.cache
+C:\Users\mtahi\OneDrive\Muhammad Tahir OneDrive\OneDrive - FAST National University\Desktop\algo project_CSHARP\algo project_CSHARP\obj\Debug\algo project_CSHARP.csproj.CoreCompileInputs.cache
+C:\Users\mtahi\OneDrive\Muhammad Tahir OneDrive\OneDrive - FAST National University\Desktop\algo project_CSHARP\algo project_CSHARP\obj\Debug\algo project_CSHARP.exe
+C:\Users\mtahi\OneDrive\Muhammad Tahir OneDrive\OneDrive - FAST National University\Desktop\algo project_CSHARP\algo project_CSHARP\obj\Debug\algo project_CSHARP.pdb
+C:\Users\mtahi\OneDrive\Muhammad Tahir OneDrive\OneDrive - FAST National University\Desktop\GT Project\GT Project C#\bin\Debug\algo project_CSHARP.exe.config
+C:\Users\mtahi\OneDrive\Muhammad Tahir OneDrive\OneDrive - FAST National University\Desktop\GT Project\GT Project C#\bin\Debug\algo project_CSHARP.exe
+C:\Users\mtahi\OneDrive\Muhammad Tahir OneDrive\OneDrive - FAST National University\Desktop\GT Project\GT Project C#\bin\Debug\algo project_CSHARP.pdb
+C:\Users\mtahi\OneDrive\Muhammad Tahir OneDrive\OneDrive - FAST National University\Desktop\GT Project\GT Project C#\obj\Debug\algo project_CSHARP.csproj.AssemblyReference.cache
+C:\Users\mtahi\OneDrive\Muhammad Tahir OneDrive\OneDrive - FAST National University\Desktop\GT Project\GT Project C#\obj\Debug\algo_project_CSHARP.Form1.resources
+C:\Users\mtahi\OneDrive\Muhammad Tahir OneDrive\OneDrive - FAST National University\Desktop\GT Project\GT Project C#\obj\Debug\algo_project_CSHARP.Properties.Resources.resources
+C:\Users\mtahi\OneDrive\Muhammad Tahir OneDrive\OneDrive - FAST National University\Desktop\GT Project\GT Project C#\obj\Debug\algo project_CSHARP.csproj.GenerateResource.cache
+C:\Users\mtahi\OneDrive\Muhammad Tahir OneDrive\OneDrive - FAST National University\Desktop\GT Project\GT Project C#\obj\Debug\algo project_CSHARP.csproj.CoreCompileInputs.cache
+C:\Users\mtahi\OneDrive\Muhammad Tahir OneDrive\OneDrive - FAST National University\Desktop\GT Project\GT Project C#\obj\Debug\algo project_CSHARP.exe
+C:\Users\mtahi\OneDrive\Muhammad Tahir OneDrive\OneDrive - FAST National University\Desktop\GT Project\GT Project C#\obj\Debug\algo project_CSHARP.pdb
